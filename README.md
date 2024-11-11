@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Juan <img height="40"></h1>
 <h3 align="center">Computer Engineering Student at University of Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working on my **01**
+- 🔭 I’m currently working on **Android application development**
 
-- 🌱 I’m currently learning **02**
+- 🌱 I’m currently learning **English**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **juansdelrio@hotmail.com**
 
-- ⚡ What I like to do: **I like so much..**
+- ⚡ What I like to do: **I like so much football, video game development, and graphical user interfaces**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -41,6 +41,24 @@
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+  </a>
+  <a href="https://groovy-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/>
+  </a>
+  <a href="https://grails.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grails/grails-original.svg" alt="grails" width="40" height="40"/>
   </a>
 </p>
 
