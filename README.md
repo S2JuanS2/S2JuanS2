@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan <img height="40"></h1>
 <h3 align="center">Computer Engineering Student at University of Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working on **Android application development**
+- 🔭 I’m currently learning on **Android application development**
 
 - 🌱 I’m currently learning **English**
 
