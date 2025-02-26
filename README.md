@@ -67,4 +67,4 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2JuanS2&theme=react&layout=compact" />
 </p>
 
-Last edited: 21/02/2025
+Last edited: 26/02/2025
